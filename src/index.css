@@ -1,21 +1,73 @@
-
-
-
-body {
-  margin: 0;
-  font-family: eczar, serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+@import url("https://fonts.googleapis.com/css2?family=Eczar:wght@400;500;600;700;800&display=swap");
 
 /* CSS HEX */
--- bright-pink-crayola: #ef476fff;
--- sunglow: #ffd166ff;
--- emerald: #06d6a0ff;
--- blue-ncs: #118ab2ff;
--- midnight-green: #073b4cff;
+/*.
+--: #ef476fff;
+--sunglow: #ffd166ff;
+--emerald: #06d6a0ff;
+--blue-ncs: #118ab2ff;
+--midnight-green: #073b4cff; */
+
+body {
+  background-color: #073b4cff;
+  margin: 30;
+  font-family: "Eczar", serif;
+  font-size: 20px;
+  text-align: center;
+  color: #ef476fff;
+}
+
+.big-body {
+  background-color: #073b4cff;
+  margin: 30px;
+  text-align: center;
+  color: #ef476fff;
+}
+
+.nav {
+  background-color: #073b4cff;
+  font-family: "Eczar", serif;
+  font-size: xx-large;
+}
+
+.nav-tab {
+  background-color: #073b4cff;
+  font-family: "Eczar", serif;
+  font-size: xx-large;
+}
+
+.nav-link {
+  color: #ef476fff;
+  font-family: "Eczar", serif;
+}
+
+.nav-item {
+  background-color: #073b4cff;
+  font-family: "Eczar", serif;
+  font-size: xx-large;
+}
+
+.nav-link.active {
+  background-color: #cccccc;
+  font-family: "Eczar", serif;
+  font-size: xx-large;
+  color: #fff;
+}
+
+.nav-link:hover {
+  background-color: #ffd166ff;
+  font-family: "Eczar", serif;
+  font-size: xx-large;
+  color: #fff;
+}
+
+.nav-link:focus {
+  background-color: #ffd166ff;
+  font-family: "Eczar", serif;
+  font-size: xx-large;
+  color: #fff;
+}
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+  font-family: "Eczar", serif;
 }
