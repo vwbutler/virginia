@@ -11,12 +11,17 @@ function Footer() {
             target="_blank"
             className="social-icon instagram"
           ></a>
-          <a href="https://www.linkedin.com">
-            <i className="fab fa-linkedin"></i>
-          </a>
-          <a href="https://www.github.com">
-            <i className="fab fa-github"></i>
-          </a>
+
+          <a
+            href="https://www.linkedin.com/in/virginiawilkinsbutler"
+            target="_blank"
+            className="social-icon linkedin"
+          ></a>
+          <a
+            href="https://github.com/vwbutler"
+            target="_blank"
+            className="social-icon github"
+          ></a>
         </div>
         <p>Phone: 803.569.8757</p>
       </div>

@@ -2,7 +2,7 @@
 
 /* CSS HEX */
 /*.
---: #ef476fff;
+--bright-pink-crayola: #ef476fff;
 --sunglow: #ffd166ff;
 --emerald: #06d6a0ff;
 --blue-ncs: #118ab2ff;
@@ -78,6 +78,7 @@ footer {
   display: flex;
   flex-direction: column;
   align-items: center;
+  background-color: cornflowerblue;
 }
 
 .social-icons {
@@ -87,12 +88,28 @@ footer {
 .social-icons a {
   display: inline-block;
   margin-right: 10px;
-  color: #333;
+  color: whitesmoke;
   font-size: 24 px;
 }
 
 .instagram {
   background-image: url("./images/instagram.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 40px;
+  height: 40px;
+}
+
+.linkedin {
+  background-image: url("./images/linkedin.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 40px;
+  height: 40px;
+}
+
+.github {
+  background-image: url("./images/github.svg");
   background-size: contain;
   background-repeat: no-repeat;
   width: 40px;
