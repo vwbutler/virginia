@@ -68,6 +68,39 @@ body {
   color: #fff;
 }
 
-code {
-  font-family: "Eczar", serif;
+footer {
+  background-color: #ef476fff;
+  padding: 20px;
+  text-align: center;
+}
+
+.footer-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.social-icons {
+  margin-top: 10px;
+}
+
+.social-icons a {
+  display: inline-block;
+  margin-right: 10px;
+  color: #333;
+  font-size: 24 px;
+}
+
+.instagram {
+  background-image: url("./images/instagram.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 40px;
+  height: 40px;
+}
+
+p {
+  margin-top: 10px;
+  color: whitesmoke;
+  font-size: 16px;
 }
