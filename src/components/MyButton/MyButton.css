@@ -1,0 +1,15 @@
+.my-button.custom-button {
+  /* Your custom styles */
+  background-color: transparent;
+  color: #ef476fff;
+  border-color: #ef476fff;
+  font-family: "Eczar", serif;
+  font-size: 20px;
+}
+
+.my-button.custom-button:hover {
+  /* Your custom hover styles */
+  background-color: #ef476fff;
+  color: #ffffff;
+  border-color: whitesmoke;
+}
