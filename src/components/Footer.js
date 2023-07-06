@@ -4,7 +4,7 @@ function Footer() {
   return (
     <footer>
       <div className="footer-container">
-        <h3>Let's Connect</h3>
+        <h3>Let's connect</h3>
         <div className="social-icons">
           <a
             href="https://instagram.com/virginia.wilkins?igshid=YmMyMTA2M2Y="

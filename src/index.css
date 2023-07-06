@@ -16,8 +16,9 @@ body {
   background-color: #595cff;
   margin: 40px;
   text-align: center;
-  color: #c6f8ff;
+  color: black;
   font-size: xx-large;
+  font-weight: bolder;
 }
 
 .nav {
@@ -26,6 +27,7 @@ body {
   font-size: xx-large;
   align-items: center;
   justify-content: center;
+  padding: 30px;
 }
 
 .nav-tab {
@@ -36,6 +38,7 @@ body {
   align-items: center;
   justify-content: center;
   padding: auto;
+  margin-block: 280 px;
 }
 
 .nav-link {
@@ -148,7 +151,7 @@ header {
   width: 200px;
   height: 200px;
   border-radius: 50%;
-  border: 5px solid #ff5959;
+  margin: 20px;
 }
 
 .name {
@@ -156,4 +159,5 @@ header {
   font-size: 60px;
   line-height: 1.2;
   margin: 20px 0;
+  color: black;
 }
