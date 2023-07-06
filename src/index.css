@@ -2,9 +2,11 @@
 
 @import URL("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&family=The+Nautigal:wght@400;700&display=swap");
 
+@import url("https://fonts.googleapis.com/css2?family=Merriweather&display=swap");
+
 body {
   background-color: #595cff;
-  font-family: Poppins, sans-serif;
+  font-family: "poppins", sans-serif;
   font-size: 20px;
   text-align: center;
   color: #c6f8ff;
@@ -15,6 +17,7 @@ body {
   margin: 40px;
   text-align: center;
   color: #c6f8ff;
+  font-size: xx-large;
 }
 
 .nav {
@@ -133,8 +136,12 @@ header {
   flex-direction: column;
   align-items: center;
   background-color: #595cff;
-  color: #c6f8ff;
-  border-color: #ff5959;
+  color: #d3f8fd;
+  font-size: 40px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  padding: 40px;
 }
 
 .my-photo {
@@ -142,4 +149,11 @@ header {
   height: 200px;
   border-radius: 50%;
   border: 5px solid #ff5959;
+}
+
+.name {
+  font-family: "merriweather", serif;
+  font-size: 60px;
+  line-height: 1.2;
+  margin: 20px 0;
 }

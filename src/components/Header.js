@@ -4,7 +4,7 @@ function Header() {
   return (
     <header>
       <div class="header-container">
-        <h1>Virginia Wilkins Butler</h1>
+        <div class="name">Virginia Wilkins Butler</div>
       </div>
     </header>
   );

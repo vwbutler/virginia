@@ -6,7 +6,16 @@ function MyPhoto() {
     <img
       src={virginiaProfile}
       alt="Virginia"
-      style={{ width: "200px", height: "auto" }}
+      style={{
+        width: "200px",
+        height: "auto",
+        alignItems: "center",
+        marginRight: "20px",
+        marginLeft: "20px",
+        alignContent: "center",
+        justifyContent: "center",
+        borderRadius: "50%",
+      }}
     />
   );
 }

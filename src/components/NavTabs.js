@@ -13,7 +13,7 @@ function NavTabs({ currentPage, handlePageChange }) {
           // If it is, we set the current page to 'nav-link-active', otherwise we set it to 'nav-link'
           className={currentPage === "Home" ? "nav-link active" : "nav-link"}
         >
-          Home
+          Start here
         </a>
       </li>
       <li className="nav-item">
@@ -23,7 +23,7 @@ function NavTabs({ currentPage, handlePageChange }) {
           // Check to see if the currentPage is `About`, and if so we use the active link class from bootstrap. Otherwise, we set it to a normal nav-link
           className={currentPage === "About" ? "nav-link active" : "nav-link"}
         >
-          About
+          About me
         </a>
       </li>
       <li className="nav-item">
@@ -33,7 +33,7 @@ function NavTabs({ currentPage, handlePageChange }) {
           // Check to see if the currentPage is `Project`, and if so we use the active link class from bootstrap. Otherwise, we set it to a normal nav-link
           className={currentPage === "Project" ? "nav-link active" : "nav-link"}
         >
-          Project
+          My work
         </a>
       </li>
       <li className="nav-item">
@@ -43,7 +43,7 @@ function NavTabs({ currentPage, handlePageChange }) {
           // Check to see if the currentPage is `Contact`, and if so we use the active link class from bootstrap. Otherwise, we set it to a normal nav-link
           className={currentPage === "Contact" ? "nav-link active" : "nav-link"}
         >
-          Contact
+          Get in touch
         </a>
       </li>
     </ul>
