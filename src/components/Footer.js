@@ -4,6 +4,7 @@ function Footer() {
   return (
     <footer>
       <div className="footer-container">
+        <div className="big-body">Tenacious. Innovative. Collaborative.</div>
         <h3>Let's connect</h3>
         <div className="social-icons">
           <a

@@ -5,7 +5,7 @@ import React from "react";
 function NavTabs({ currentPage, handlePageChange }) {
   return (
     <ul className="nav nav-tabs">
-      <li className="nav-item">
+      {/* <li className="nav-item">
         <a
           href="#home"
           onClick={() => handlePageChange("Home")}
@@ -15,7 +15,7 @@ function NavTabs({ currentPage, handlePageChange }) {
         >
           Start here
         </a>
-      </li>
+      </li> */}
       <li className="nav-item">
         <a
           href="#about"
@@ -26,6 +26,7 @@ function NavTabs({ currentPage, handlePageChange }) {
           About me
         </a>
       </li>
+
       <li className="nav-item">
         <a
           href="#project"
@@ -36,6 +37,17 @@ function NavTabs({ currentPage, handlePageChange }) {
           My work
         </a>
       </li>
+
+      <li className="nav-item">
+        <a
+          href="#resume"
+          onClick={() => handlePageChange("Resume")}
+          // Check to see if the currentPage is `Resume`, and if so we use the active link class from bootstrap. Otherwise, we set it to a normal nav-link
+          className={currentPage === "Resume" ? "nav-link active" : "nav-link"}
+        >
+          My resume
+        </a>
+      </li>
       <li className="nav-item">
         <a
           href="#contact"
@@ -43,7 +55,7 @@ function NavTabs({ currentPage, handlePageChange }) {
           // Check to see if the currentPage is `Contact`, and if so we use the active link class from bootstrap. Otherwise, we set it to a normal nav-link
           className={currentPage === "Contact" ? "nav-link active" : "nav-link"}
         >
-          Get in touch
+          Contact me
         </a>
       </li>
     </ul>
