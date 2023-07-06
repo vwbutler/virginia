@@ -1,35 +1,38 @@
-import React, { useState } from "react";
-import NavTabs from "./NavTabs";
-import Home from "./pages/Home";
-import About from "./pages/About";
-import Project from "./pages/Project";
-import Contact from "./pages/Contact";
+import React from "react";
 
-export default function PortfolioContainer() {
-  const [currentPage, setCurrentPage] = useState("Home");
-
-  // This method is checking to see what the value of `currentPage` is. Depending on the value of currentPage, we return the corresponding component to render.
-  const renderPage = () => {
-    if (currentPage === "Home") {
-      return <Home />;
-    }
-    if (currentPage === "About") {
-      return <About />;
-    }
-    if (currentPage === "Project") {
-      return <Project />;
-    }
-    return <Contact />;
-  };
-
-  const handlePageChange = (page) => setCurrentPage(page);
+function PortfolioContainer() {
+  // Array of portfolio items
+  const portfolioItems = [
+    {
+      id: 1,
+      title: "Project 1",
+      description: "This is the description of Project 1",
+    },
+    {
+      id: 2,
+      title: "Project 2",
+      description: "This is the description of Project 2",
+    },
+    {
+      id: 3,
+      title: "Project 3",
+      description: "This is the description of Project 3",
+    },
+  ];
 
   return (
     <div>
-      {/* We are passing the currentPage from state and the function to update it */}
-      <NavTabs currentPage={currentPage} handlePageChange={handlePageChange} />
-      {/* Here we are calling the renderPage method which will return a component  */}
-      {renderPage()}
+      <h2>Portfolio</h2>
+      <div className="card-container">
+        {portfolioItems.map((item) => (
+          <div className="card" key={item.id}>
+            <h3>{item.title}</h3>
+            <p>{item.description}</p>
+          </div>
+        ))}
+      </div>
     </div>
   );
 }
+
+export default PortfolioContainer;
