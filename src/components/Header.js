@@ -2,8 +2,10 @@ import React from "react";
 
 function Header() {
   return (
-    <header className="header">
-      <h1>Virginia Butler Header</h1>
+    <header>
+      <div class="header-container">
+        <h1>Virginia Wilkins Butler</h1>
+      </div>
     </header>
   );
 }

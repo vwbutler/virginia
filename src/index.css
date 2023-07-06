@@ -1,76 +1,74 @@
 @import url("https://fonts.googleapis.com/css2?family=Eczar:wght@400;500;600;700;800&display=swap");
 
-/* CSS HEX */
-/*.
---bright-pink-crayola: #ef476fff;
---sunglow: #ffd166ff;
---emerald: #06d6a0ff;
---blue-ncs: #118ab2ff;
---midnight-green: #073b4cff; */
+@import URL("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&family=The+Nautigal:wght@400;700&display=swap");
 
 body {
-  background-color: #073b4cff;
-  margin: 30;
-  font-family: "Eczar", serif;
+  background-color: #595cff;
+  font-family: Poppins, sans-serif;
   font-size: 20px;
   text-align: center;
-  color: #ef476fff;
+  color: #c6f8ff;
 }
 
 .big-body {
-  background-color: #073b4cff;
-  margin: 30px;
+  background-color: #595cff;
+  margin: 40px;
   text-align: center;
-  color: #ef476fff;
+  color: #c6f8ff;
 }
 
 .nav {
-  background-color: #073b4cff;
-  font-family: "Eczar", serif;
+  background-color: #595cff;
+  font-family: "poppins", sans-serif;
   font-size: xx-large;
+  align-items: center;
+  justify-content: center;
 }
 
 .nav-tab {
-  background-color: #073b4cff;
-  font-family: "Eczar", serif;
+  background-color: #c6f8ff;
+  font-family: "poppins", sans-serif;
   font-size: xx-large;
+  color: #595cff;
+  align-items: center;
+  justify-content: center;
+  padding: auto;
 }
 
 .nav-link {
-  color: #ef476fff;
-  font-family: "Eczar", serif;
+  color: #c6f8ff;
+  font-family: "popins", sans-serif;
 }
 
 .nav-item {
-  background-color: #073b4cff;
-  font-family: "Eczar", serif;
+  background-color: #595cff;
+  font-family: "popins", sans-serif;
   font-size: xx-large;
 }
 
 .nav-link.active {
   background-color: #cccccc;
-  font-family: "Eczar", serif;
+  font-family: "popins", sans-serif;
   font-size: xx-large;
   color: #fff;
 }
 
 .nav-link:hover {
-  background-color: #ffd166ff;
-  font-family: "Eczar", serif;
+  background-color: #ff5959;
+  font-family: "popins", sans-serif;
   font-size: xx-large;
-  color: #fff;
+  color: #c6f8ff;
 }
 
 .nav-link:focus {
-  background-color: #ffd166ff;
-  font-family: "Eczar", serif;
-  font-size: xx-large;
-  color: #fff;
+  background-color: #c6f8ff;
+  font-family: "popins", sans-serif;
+  color: #c6f8ff;
 }
 
 footer {
-  background-color: #ef476fff;
-  padding: 20px;
+  background-color: #595cff;
+  padding: 40px;
   text-align: center;
 }
 
@@ -78,17 +76,17 @@ footer {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: cornflowerblue;
+  background-color: #595cff;
 }
 
 .social-icons {
-  margin-top: 10px;
+  margin-top: 20px;
 }
 
 .social-icons a {
   display: inline-block;
   margin-right: 10px;
-  color: whitesmoke;
+  color: #f8f8f8;
   font-size: 24 px;
 }
 
@@ -96,6 +94,7 @@ footer {
   background-image: url("./images/instagram.svg");
   background-size: contain;
   background-repeat: no-repeat;
+  background-color: #595cff;
   width: 40px;
   height: 40px;
 }
@@ -118,6 +117,22 @@ footer {
 
 p {
   margin-top: 10px;
-  color: whitesmoke;
+  color: #c6f8ff;
   font-size: 16px;
+}
+
+header {
+  background-color: #595cff;
+  padding: 20px;
+  text-align: center;
+  color: #c6f8ff;
+}
+
+.header-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #595cff;
+  color: #c6f8ff;
+  border-color: #ff5959;
 }
