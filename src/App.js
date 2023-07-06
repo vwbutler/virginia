@@ -10,6 +10,7 @@ import Project from "./components/pages/Project";
 import Contact from "./components/pages/Contact";
 import MyPhoto from "./components/MyPhoto";
 import Resume from "./components/pages/Resume";
+import PDFButton from "./components/pages/Resume";
 
 function App() {
   const [currentPage, setCurrentPage] = useState("About");
