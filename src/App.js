@@ -8,6 +8,7 @@ import Home from "./components/pages/Home";
 import About from "./components/pages/About";
 import Project from "./components/pages/Project";
 import Contact from "./components/pages/Contact";
+import MyPhoto from "./components/MyPhoto";
 
 function App() {
   const [currentPage, setCurrentPage] = useState("Home");
