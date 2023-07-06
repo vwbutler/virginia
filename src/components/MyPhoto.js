@@ -1,5 +1,5 @@
 import React from "react";
-import virginiaProfile from "./images/virginiaprofile.jpg";
+import virginiaProfile from "../images/virginiaprofile.jpg";
 
 function MyPhoto() {
   return (

@@ -1,5 +1,5 @@
 import React from "react";
-import MyPhoto from "./MyPhoto";
+import MyPhoto from "../MyPhoto";
 
 function About() {
   return (
