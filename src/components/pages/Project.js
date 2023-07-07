@@ -1,8 +1,10 @@
 import React from "react";
+import PortfolioContainer from "../PortfolioContainer";
 
 export default function Projects() {
   return (
     <div>
+      <PortfolioContainer />
       <h1>Projects Page</h1>
       <p>
         Donec a volutpat quam. Curabitur nec varius justo, sed rutrum ligula.

@@ -10,6 +10,7 @@ body {
   font-size: 20px;
   text-align: center;
   color: #c6f8ff;
+  border-bottom: 10px solid yellow;
 }
 
 .big-body {
@@ -19,6 +20,7 @@ body {
   color: black;
   font-size: xx-large;
   font-weight: bolder;
+  border-bottom: 10px solid green;
 }
 
 .nav {
@@ -28,6 +30,7 @@ body {
   align-items: center;
   justify-content: center;
   padding: 30px;
+  border-bottom: 10px solid orange;
 }
 
 .nav-tab {
@@ -50,6 +53,7 @@ body {
   background-color: #595cff;
   font-family: "popins", sans-serif;
   font-size: xx-large;
+  border-bottom: 10px solid #c6f8ff;
 }
 
 .nav-link.active {
@@ -97,7 +101,7 @@ footer {
 }
 
 .instagram {
-  background-image: url("./images/instagram.svg");
+  background-image: url("../images/instagram.svg");
   background-size: contain;
   background-repeat: no-repeat;
   background-color: #595cff;
@@ -106,7 +110,7 @@ footer {
 }
 
 .linkedin {
-  background-image: url("./images/linkedin.svg");
+  background-image: url("../images/linkedin.svg");
   background-size: contain;
   background-repeat: no-repeat;
   width: 40px;
@@ -114,7 +118,7 @@ footer {
 }
 
 .github {
-  background-image: url("./images/github.svg");
+  background-image: url("../images/github.svg");
   background-size: contain;
   background-repeat: no-repeat;
   width: 40px;
@@ -129,9 +133,8 @@ p {
 
 header {
   background-color: #595cff;
-  padding: 20px;
-  text-align: center;
-  color: #c6f8ff;
+  padding: 10px;
+  border-bottom: 10px solid pink;
 }
 
 .header-container {
@@ -139,12 +142,8 @@ header {
   flex-direction: column;
   align-items: center;
   background-color: #595cff;
-  color: #d3f8fd;
-  font-size: 40px;
-  font-weight: bold;
-  text-transform: uppercase;
-  letter-spacing: 4px;
-  padding: 40px;
+  padding: 10px;
+  border-bottom: 10px solid pink;
 }
 
 .my-photo {
@@ -152,6 +151,7 @@ header {
   height: 200px;
   border-radius: 50%;
   margin: 20px;
+  padding-top: 4em;
 }
 
 .name {
@@ -160,4 +160,14 @@ header {
   line-height: 1.2;
   margin: 20px 0;
   color: black;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+}
+
+.subtext {
+  font-family: poppins, sans-serif;
+  font-size: 40px;
+  padding: 10px;
+  color: black;
+  text-align: left;
 }

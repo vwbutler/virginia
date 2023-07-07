@@ -1,5 +1,5 @@
 import React from "react";
-import virginiaProfile from "../images/virginiaprofile.jpg";
+import virginiaProfile from "./assets/images/virginiaprofile.jpg";
 
 function MyPhoto() {
   return (
@@ -15,6 +15,7 @@ function MyPhoto() {
         alignContent: "center",
         justifyContent: "center",
         borderRadius: "50%",
+        padding: "30px",
       }}
     />
   );
