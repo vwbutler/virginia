@@ -1,0 +1,19 @@
+.my-lil-button.custom-button {
+  /* start style */
+  background-color: #595cff;
+  color: whitesmoke;
+  border-color: #595cff;
+  font-family: poppins, sans-serif;
+  font-size: 20px;
+  padding: 1%;
+  margin-top: 10px;
+  cursor: "pointer";
+}
+
+.my-lil-button.custom-button:hover {
+  /*hover styles */
+  background-color: whitesmoke;
+  color: #595cff;
+  border-color: #595cff;
+  border-width: 3px;
+}

@@ -62,14 +62,14 @@ body {
   background-color: #cccccc;
   font-family: "popins", sans-serif;
   font-size: xx-large;
-  color: #fff;
+  color: whitesmoke;
 }
 
 .nav-link:hover {
-  background-color: 4DB6AC;
+  background-color: #c6f8ff;
   font-family: "popins", sans-serif;
   font-size: xx-large;
-  color: #c6f8ff;
+  color: #595cff;
 }
 
 .nav-link:focus {
@@ -167,8 +167,8 @@ header {
 
 .subtext {
   font-family: poppins, sans-serif;
-  font-size: 20px;
-  padding: 10px;
+  font-size: 18px;
+  padding: 5px;
   display: flex;
   text-align: left;
   margin-right: 200px;
@@ -196,9 +196,20 @@ header {
 
 .card h3 {
   margin-top: 0;
+  font-weight: bold;
 }
 
 .card p {
   color: #595cff;
   margin-bottom: 0;
+}
+
+.application-link {
+  color: #595cff;
+  text-decoration: underline;
+}
+
+.repository-link {
+  color: #595cff;
+  text-decoration: none;
 }

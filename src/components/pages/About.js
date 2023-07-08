@@ -14,7 +14,7 @@ const PhotoAndText = () => {
     flexBasis: "33.33%",
     paddingRight: "10px",
     paddingLeft: "200px",
-    paddingTop: "20px",
+    paddingTop: "40px",
   };
 
   const imageStyle = {
@@ -42,11 +42,16 @@ const PhotoAndText = () => {
       <div style={textStyle}>
         <p className="subtext">
           Virginia is an experienced project manager and business analyst
-          specializing in digital solutions. When she is not slogging through
-          challenging problems, Virginia enjoys spending time with her family
-          and her sweet fella. She is an avid traveler and a lifelong learner.
-          Adventurous, curious, and adaptable, Virginia is always up for a new
-          challenge.
+          specializing in digital solutions.
+        </p>
+        <p className="subtext">
+          When she is not slogging through challenging problems, Virginia enjoys
+          spending time with her mom, Betsy, her lovely daughters
+          #thebutlersisterssc, and Gary, her sweet fella.
+        </p>
+        <p className="subtext">
+          Virginia is an avid traveler and a lifelong learner. She is curious,
+          adaptable and always ready for a new challenge.
         </p>
       </div>
     </div>
