@@ -42,7 +42,11 @@ const PhotoAndText = () => {
       <div style={textStyle}>
         <p className="subtext">
           Virginia is an experienced project manager and business analyst
-          specializing in digital solutions.
+          specializing in digital solutions. When she is not slogging through
+          challenging problems, Virginia enjoys spending time with her family
+          and her sweet fella. She is an avid traveler and a lifelong learner.
+          Adventurous, curious, and adaptable, Virginia is always up for a new
+          challenge.
         </p>
       </div>
     </div>

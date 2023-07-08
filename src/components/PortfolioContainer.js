@@ -15,19 +15,18 @@ function PortfolioContainer() {
     },
     {
       id: 3,
-      title: "Project 3",
-      description: "This is the description of Project 3",
+      title: "JourneyVerse",
+      description: "MERN Stack Single-Page Application",
     },
   ];
 
   return (
     <div>
-      <h2>Portfolio</h2>
       <div className="card-container">
         {portfolioItems.map((item) => (
           <div className="card" key={item.id}>
             <h3>{item.title}</h3>
-            <p>{item.description}</p>
+            <p> {item.description}</p>
           </div>
         ))}
       </div>

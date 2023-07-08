@@ -11,7 +11,7 @@ body {
   font-family: "poppins", sans-serif;
   font-size: 20px;
   text-align: center;
-  color: #4db6ac;
+  color: whitesmoke;
   /* border-bottom: 10px solid #333333; */
 }
 
@@ -167,11 +167,38 @@ header {
 
 .subtext {
   font-family: poppins, sans-serif;
-  font-size: 30px;
+  font-size: 20px;
   padding: 10px;
   display: flex;
+  text-align: left;
   margin-right: 200px;
   flex-direction: row;
   background-color: #595cff;
   color: whitesmoke;
+}
+
+.card-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-gap: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+
+.card {
+  background-color: #f1f1f1;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.card h3 {
+  margin-top: 0;
+}
+
+.card p {
+  color: #595cff;
+  margin-bottom: 0;
 }

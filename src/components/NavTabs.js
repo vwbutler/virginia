@@ -34,7 +34,7 @@ function NavTabs({ currentPage, handlePageChange }) {
           // Check to see if the currentPage is `Project`, and if so we use the active link class from bootstrap. Otherwise, we set it to a normal nav-link
           className={currentPage === "Project" ? "nav-link active" : "nav-link"}
         >
-          Digital works
+          Work samples
         </a>
       </li>
 
@@ -45,7 +45,7 @@ function NavTabs({ currentPage, handlePageChange }) {
           // Check to see if the currentPage is `Resume`, and if so we use the active link class from bootstrap. Otherwise, we set it to a normal nav-link
           className={currentPage === "Resume" ? "nav-link active" : "nav-link"}
         >
-          Resume
+          Qualifications
         </a>
       </li>
       <li className="nav-item">
