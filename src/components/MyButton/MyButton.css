@@ -1,15 +1,19 @@
 .my-button.custom-button {
-  /* Your custom styles */
-  background-color: transparent;
-  color: #ef476fff;
-  border-color: #ef476fff;
-  font-family: "Eczar", serif;
-  font-size: 20px;
+  /* start style */
+  background-color: #ff4081;
+  color: whitesmoke;
+  border-color: #ff4081;
+  font-family: poppins, sans-serif;
+  font-size: 30px;
+  padding: auto;
+  margin-top: 50px;
+  cursor: "pointer";
 }
 
 .my-button.custom-button:hover {
-  /* Your custom hover styles */
-  background-color: #ef476fff;
-  color: #ffffff;
-  border-color: whitesmoke;
+  /*hover styles */
+  background-color: whitesmoke;
+  color: #ff4081;
+  border-color: #ff4081;
+  border-width: 3px;
 }
