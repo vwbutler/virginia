@@ -5,7 +5,7 @@ function Footer() {
     <footer>
       <div className="footer-container">
         <div className="big-body">Tenacious. Innovative. Collaborative.</div>
-        <h3>Let's connect</h3>
+
         <div className="social-icons">
           <a
             href="https://instagram.com/virginia.wilkins?igshid=YmMyMTA2M2Y="

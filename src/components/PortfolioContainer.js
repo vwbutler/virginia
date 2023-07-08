@@ -5,13 +5,13 @@ function PortfolioContainer() {
   const portfolioItems = [
     {
       id: 1,
-      title: "Project 1",
-      description: "This is the description of Project 1",
+      title: "Foodle",
+      description: "Interactive Front-End Application",
     },
     {
       id: 2,
-      title: "Project 2",
-      description: "This is the description of Project 2",
+      title: "Side Hustle",
+      description: "Interactive Full-Stack Application",
     },
     {
       id: 3,

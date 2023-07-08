@@ -1,30 +1,13 @@
-// import React from "react";
-// import MyPhoto from "../MyPhoto";
-
-// function About() {
-//   return (
-//     <div>
-//       <MyPhoto />
-//       <div>
-//         <div>
-//           <p class="subtext">
-//             Virginia is an experienced project manager and business analyst
-//             specializing in digital solutions.
-//           </p>
-//         </div>
-//       </div>
-//     </div>
-//   );
-// }
-
-// export default About;
-
 import React from "react";
 
 const PhotoAndText = () => {
   const containerStyle = {
     display: "flex",
-    border: "10px solid black",
+    flexDirection: "row",
+    alignItems: "left",
+    justifyContent: "left",
+    padding: "10px",
+    // border: "10px solid black",
   };
 
   const photoStyle = {
@@ -37,12 +20,13 @@ const PhotoAndText = () => {
   const imageStyle = {
     maxWidth: "100%",
     height: "auto",
+    borderRadius: "15%",
   };
 
   const textStyle = {
     flexBasis: "66.67%",
     paddingRight: "10px",
-    paddingLeft: "200px",
+    paddingLeft: "20px",
     paddingTop: "20px",
   };
 
@@ -50,7 +34,7 @@ const PhotoAndText = () => {
     <div style={containerStyle}>
       <div style={photoStyle}>
         <img
-          src="./assets/images/virginiaprofile.jpg"
+          src="../assets/images/virginiaprofile.jpg"
           alt="Virginia Butler"
           style={imageStyle}
         />
