@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/vwbportfolio/static/css/main.57ee2638.css",
-    "main.js": "/vwbportfolio/static/js/main.e7304913.js",
-    "static/media/sh.png": "/vwbportfolio/static/media/sh.22a9b637dc193bd5539d.png",
-    "static/media/cbap.png": "/vwbportfolio/static/media/cbap.0679de5bcfb4b37cfd7c.png",
-    "static/media/weatherdash.png": "/vwbportfolio/static/media/weatherdash.d679711169327cbf2f77.png",
-    "static/media/foodle.jpg": "/vwbportfolio/static/media/foodle.4e84e2063a062cd71dc6.jpg",
-    "static/media/blurry-bunny-project-placeholder.jpg": "/vwbportfolio/static/media/blurry-bunny-project-placeholder.7affdf71c1967f3a94e6.jpg",
-    "static/media/jotjoy.png": "/vwbportfolio/static/media/jotjoy.d1ecc50f04f35aa114dd.png",
-    "static/media/wdsched.png": "/vwbportfolio/static/media/wdsched.323fea66a9014ed7d20e.png",
-    "static/media/cae.png": "/vwbportfolio/static/media/cae.e2e26130a32b41c1aacd.png",
-    "static/media/instagram.svg": "/vwbportfolio/static/media/instagram.4d969dd141d389ed7a2f.svg",
-    "static/media/github.svg": "/vwbportfolio/static/media/github.22e65707326e3e1e37af.svg",
-    "static/media/linkedin.svg": "/vwbportfolio/static/media/linkedin.2eda7bddaacee15c4449.svg",
-    "index.html": "/vwbportfolio/index.html",
-    "main.57ee2638.css.map": "/vwbportfolio/static/css/main.57ee2638.css.map",
-    "main.e7304913.js.map": "/vwbportfolio/static/js/main.e7304913.js.map"
+    "main.css": "/virginia/static/css/main.092360ce.css",
+    "main.js": "/virginia/static/js/main.57eec929.js",
+    "static/media/sh.png": "/virginia/static/media/sh.22a9b637dc193bd5539d.png",
+    "static/media/cbap.png": "/virginia/static/media/cbap.0679de5bcfb4b37cfd7c.png",
+    "static/media/weatherdash.png": "/virginia/static/media/weatherdash.d679711169327cbf2f77.png",
+    "static/media/foodle.jpg": "/virginia/static/media/foodle.4e84e2063a062cd71dc6.jpg",
+    "static/media/blurry-bunny-project-placeholder.jpg": "/virginia/static/media/blurry-bunny-project-placeholder.7affdf71c1967f3a94e6.jpg",
+    "static/media/jotjoy.png": "/virginia/static/media/jotjoy.d1ecc50f04f35aa114dd.png",
+    "static/media/wdsched.png": "/virginia/static/media/wdsched.323fea66a9014ed7d20e.png",
+    "static/media/cae.png": "/virginia/static/media/cae.e2e26130a32b41c1aacd.png",
+    "static/media/instagram.svg": "/virginia/static/media/instagram.4d969dd141d389ed7a2f.svg",
+    "static/media/github.svg": "/virginia/static/media/github.22e65707326e3e1e37af.svg",
+    "static/media/linkedin.svg": "/virginia/static/media/linkedin.2eda7bddaacee15c4449.svg",
+    "index.html": "/virginia/index.html",
+    "main.092360ce.css.map": "/virginia/static/css/main.092360ce.css.map",
+    "main.57eec929.js.map": "/virginia/static/js/main.57eec929.js.map"
   },
   "entrypoints": [
-    "static/css/main.57ee2638.css",
-    "static/js/main.e7304913.js"
+    "static/css/main.092360ce.css",
+    "static/js/main.57eec929.js"
   ]
 }
