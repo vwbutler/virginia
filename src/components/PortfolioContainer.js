@@ -23,8 +23,8 @@ function PortfolioContainer() {
       title: "Side Hustle",
       description: "Interactive Full-Stack Application",
       image: sidehustleImage,
-      applink: "https://gpaul12.github.io/foodle/",
-      repolink: "https://github.com/gpaul12/foodle",
+      applink: "https://side-hustle.herokuapp.com/",
+      repolink: "https://github.com/dimartoro/side-hustle",
     },
     {
       id: 3,

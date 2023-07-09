@@ -267,3 +267,38 @@ header {
     width: 30%;
   }
 }
+
+/* PhotoAndText.css
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+}
+
+.photo {
+  background-image: url("../images/virginiaprofile.jpg");
+  background-repeat: no-repeat;
+  flex-basis: 50%;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-top: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.image {
+  width: 200px;
+  height: 200px;
+  max-width: 100%;
+  max-height: 100%;
+  border-radius: 15%;
+}
+.text {
+  flex-basis: 50%;
+  padding-right: 10px;
+  padding-left: 20px;
+  padding-top: 20px;
+} */
