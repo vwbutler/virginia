@@ -18,30 +18,24 @@ export default function Resume() {
           target="_blank"
           className="cae"
           rel="noopener noreferrer"
-        >
-          badge
-        </a>
+        ></a>
         <a
           href="https://www.credly.com/badges/8db4a9dd-f317-4b23-bb62-634b64b2efda/public_url"
           target="_blank"
           className="pmp"
           rel="noopener noreferrer"
-        >
-          badge
-        </a>
+        ></a>
         <a
           href="https://badges.iiba.org/c332780e-aaf7-45fc-bcd8-2f0578806b60"
           target="_blank"
           className="cbap"
           rel="noopener noreferrer"
-        >
-          badge
-        </a>
+        ></a>
       </div>
 
       <div>
         <h3>July 2023: Full Stack Web Developer Skills</h3>
-        <p style={{ color: "white", margin: "0 100px" }}>
+        <p style={{ color: "white", margin: "0 240px" }}>
           Through the{" "}
           <a
             href="https://bootcamp.unc.edu/coding/"
