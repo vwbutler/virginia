@@ -213,3 +213,35 @@ header {
   color: #595cff;
   text-decoration: none;
 }
+
+.cae {
+  background-image: url("../../public/assets/images/cae.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 70px;
+  height: 60px;
+}
+.pmp {
+  background-image: url("../../public/assets/images/pmp.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 70px;
+  height: 60px;
+}
+
+.cbap {
+  background-image: url("../../public/assets/images/cbap.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 70px;
+  height: 60px;
+}
+
+.cred-icons a {
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 10px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  color: #f8f8f8;
+}

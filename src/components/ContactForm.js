@@ -31,7 +31,7 @@ function ContactForm() {
       return;
     }
 
-    // Call a function to handle form submission
+    // Call function to handle form submission
     submitForm();
 
     // Clear fields
