@@ -34,7 +34,7 @@ const PhotoAndText = () => {
     <div style={containerStyle}>
       <div style={photoStyle}>
         <img
-          src="../assets/images/virginiaprofile.jpg"
+          src="./images/virginiaprofile.jpg"
           alt="Virginia Butler"
           style={imageStyle}
         />

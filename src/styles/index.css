@@ -215,14 +215,14 @@ header {
 }
 
 .cae {
-  background-image: url("../../public/assets/images/cae.png");
+  background-image: url("../images/cae.png");
   background-size: contain;
   background-repeat: no-repeat;
   width: 70px;
   height: 60px;
 }
 .pmp {
-  background-image: url("../../public/assets/images/pmp.png");
+  background-image: url("../images/pmp.png");
   background-size: contain;
   background-repeat: no-repeat;
   width: 70px;
@@ -230,7 +230,7 @@ header {
 }
 
 .cbap {
-  background-image: url("../../public/assets/images/cbap.png");
+  background-image: url("../images/cbap.png");
   background-size: contain;
   background-repeat: no-repeat;
   width: 70px;
