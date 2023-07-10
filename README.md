@@ -7,15 +7,15 @@
 
 The images below display the four sections of the application.
 
-![About](/public/assets/images/port1.png)
+![About](/src/images/port1.png)
 
 
-![Work samples](/public/assets/images/port2.png)
+![Work samples](/src/images/port2.png)
 
 
-![Qualifications](/public/assets/images/port3.png)
+![Qualifications](/src/images/port3.png)
 
-![Get in touch](/public/assets/images/port4.png)
+![Get in touch](/src/images/port4.png)
 
 ## 2. Usage
 
