@@ -12,7 +12,7 @@ export default function About() {
           specializing in digital solutions.
         </p>
         <p>
-          When she is not slogging through challenging problems, Virginia enjoys
+          When she is not slogging through challenging issues, Virginia enjoys
           spending time with her mom, Betsy, her lovely daughters{" "}
           <a
             href="https://www.instagram.com/explore/tags/thebutlersisterssc/"

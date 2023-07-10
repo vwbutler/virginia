@@ -20,7 +20,7 @@ export default function Resume() {
           rel="noopener noreferrer"
           aria-label="CAE Badge"
         >
-          CAE
+          {" "}
         </a>
         <a
           href="https://www.credly.com/badges/8db4a9dd-f317-4b23-bb62-634b64b2efda/public_url"
@@ -29,7 +29,7 @@ export default function Resume() {
           rel="noopener noreferrer"
           aria-label="PMP Badge"
         >
-          PMP
+          {" "}
         </a>
         <a
           href="https://badges.iiba.org/c332780e-aaf7-45fc-bcd8-2f0578806b60"
@@ -38,7 +38,7 @@ export default function Resume() {
           rel="noopener noreferrer"
           aria-label="CBAP Badge"
         >
-          CBAP
+          {" "}
         </a>
       </div>
 
