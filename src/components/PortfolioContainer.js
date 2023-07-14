@@ -29,7 +29,7 @@ function PortfolioContainer() {
     {
       id: 3,
       title: "JourneyVerse",
-      description: "MERN Stack Single-Page Application (in development)",
+      description: "MERN Stack Single-Page Application",
       image: journeyverseImage,
       applink: "https://journeyverse-2c53482d7e17.herokuapp.com/",
       repolink: "https://github.com/pexApred/journeyVerse",

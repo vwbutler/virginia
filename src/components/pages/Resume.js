@@ -55,9 +55,9 @@ export default function Resume() {
           >
             Coding Boot Camp at the University of North Carolina at Chapel Hill
           </a>
-          , I have developed a strong foundation in full-stack development. This
-          intensive program provided hands-on experience through diverse
-          projects and assignments, enabling me to apply my skills in frontend
+          , Virginia developed a strong foundation in full-stack development.
+          This intensive program provided hands-on experience through diverse
+          projects and assignments, enabling her to apply my skills in frontend
           technologies, backend technologies, databases, server-side
           programming, and more.
           {/* </p> */}
