@@ -57,7 +57,7 @@ export default function Resume() {
           </a>
           , Virginia developed a strong foundation in full-stack development.
           This intensive program provided hands-on experience through diverse
-          projects and assignments, enabling her to apply my skills in frontend
+          projects and assignments, enabling her to apply her skills in frontend
           technologies, backend technologies, databases, server-side
           programming, and more.
           {/* </p> */}
