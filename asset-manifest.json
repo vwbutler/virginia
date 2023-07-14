@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/virginia/static/css/main.b25ac032.css",
-    "main.js": "/virginia/static/js/main.612fb5a5.js",
+    "main.js": "/virginia/static/js/main.1a3997f6.js",
     "static/media/sh.png": "/virginia/static/media/sh.22a9b637dc193bd5539d.png",
     "static/media/virginiaprofile.jpg": "/virginia/static/media/virginiaprofile.8216440e00ae3ee7344f.jpg",
     "static/media/cbap.png": "/virginia/static/media/cbap.0679de5bcfb4b37cfd7c.png",
@@ -17,10 +17,10 @@
     "static/media/linkedin.svg": "/virginia/static/media/linkedin.2eda7bddaacee15c4449.svg",
     "index.html": "/virginia/index.html",
     "main.b25ac032.css.map": "/virginia/static/css/main.b25ac032.css.map",
-    "main.612fb5a5.js.map": "/virginia/static/js/main.612fb5a5.js.map"
+    "main.1a3997f6.js.map": "/virginia/static/js/main.1a3997f6.js.map"
   },
   "entrypoints": [
     "static/css/main.b25ac032.css",
-    "static/js/main.612fb5a5.js"
+    "static/js/main.1a3997f6.js"
   ]
 }
