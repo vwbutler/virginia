@@ -3,9 +3,9 @@ import foodleImage from "../images/foodle.jpg";
 import sidehustleImage from "../images/sh.png";
 import wdschedulerImage from "../images/wdsched.png";
 import jotjoyImage from "../images/jotjoy.png";
-import blurryImage from "../images/blurry-bunny-project-placeholder.jpg";
 import MyLilButton from "./MyLilButton/MyLilButton";
 import weathdashImage from "../images/weatherdash.png";
+import journeyverseImage from "../images/journeyverse.jpg";
 
 function PortfolioContainer() {
   // Array of my portfolio items
@@ -30,8 +30,8 @@ function PortfolioContainer() {
       id: 3,
       title: "JourneyVerse",
       description: "MERN Stack Single-Page Application (in development)",
-      image: blurryImage,
-      applink: "https://journeyverse.herokuapp.com/",
+      image: journeyverseImage,
+      applink: "https://journeyverse-2c53482d7e17.herokuapp.com/",
       repolink: "https://github.com/pexApred/journeyVerse",
     },
     {
