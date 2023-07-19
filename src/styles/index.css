@@ -7,7 +7,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Montez&display=swap");
 
 body {
-  background-color: #595cff;
+  background-color: #5c8cff;
   font-family: "poppins", sans-serif;
   font-size: 20px;
   text-align: center;
@@ -16,7 +16,7 @@ body {
 }
 
 .big-body {
-  background-color: #595cff;
+  background-color: #5c8cff;
   font-family: "poppins", sans-serif;
   margin: 40px;
   text-align: center;
@@ -27,7 +27,7 @@ body {
 }
 
 .nav {
-  background-color: #595cff;
+  background-color: #5c8cff;
   font-family: "poppins", sans-serif;
   font-size: xx-large;
   align-items: center;
@@ -40,7 +40,7 @@ body {
   background-color: #c6f8ff;
   font-family: "poppins", sans-serif;
   font-size: xx-large;
-  color: #595cff;
+  color: #5c8cff;
   align-items: left;
   justify-content: left;
   padding: auto;
@@ -53,7 +53,7 @@ body {
 }
 
 .nav-item {
-  background-color: #595cff;
+  background-color: #5c8cff;
   font-family: "popins", sans-serif;
   font-size: xx-large;
   /* border-bottom: 10px solid #333333; */
@@ -70,7 +70,7 @@ body {
   background-color: #c6f8ff;
   font-family: "popins", sans-serif;
   font-size: xx-large;
-  color: #595cff;
+  color: #5c8cff;
 }
 
 .nav-link:focus {
@@ -80,7 +80,7 @@ body {
 }
 
 footer {
-  background-color: #595cff;
+  background-color: #5c8cff;
   padding: 40px;
   text-align: center;
 }
@@ -89,7 +89,7 @@ footer {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: #595cff;
+  background-color: #5c8cff;
 }
 
 .social-icons {
@@ -107,7 +107,7 @@ footer {
   background-image: url("../images/instagram.svg");
   background-size: contain;
   background-repeat: no-repeat;
-  background-color: #595cff;
+  background-color: #5c8cff;
   width: 40px;
   height: 40px;
 }
@@ -135,7 +135,7 @@ p {
 }
 
 header {
-  background-color: #595cff;
+  background-color: #5c8cff;
   padding: 10px;
   /* border-bottom: 10px solid pink; */
 }
@@ -143,7 +143,7 @@ header {
 .header-container {
   display: flex;
   flex-direction: row;
-  background-color: #595cff;
+  background-color: #5c8cff;
   padding: 10px;
   /* border-bottom: 10px solid #333333; */
 }
@@ -175,7 +175,7 @@ header {
   text-align: left;
   margin-right: 200px;
   flex-direction: row;
-  background-color: #595cff;
+  background-color: #5c8cff;
   color: white;
 }
 
@@ -202,18 +202,18 @@ header {
 }
 
 .card p {
-  color: #595cff;
+  color: #5c8cff;
   font-weight: bold;
   margin-bottom: 0;
 }
 
 .application-link {
-  color: #595cff;
+  color: #5c8cff;
   text-decoration: underline;
 }
 
 .repository-link {
-  color: #595cff;
+  color: #5c8cff;
   text-decoration: none;
 }
 
