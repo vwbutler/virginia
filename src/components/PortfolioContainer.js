@@ -14,9 +14,11 @@ function PortfolioContainer() {
       id: 1,
       title: "Foodle",
       description: "Interactive Front-End Application",
-      image: foodleImage,
       applink: "https://gpaul12.github.io/foodle/",
       repolink: "https://github.com/gpaul12/foodle",
+      image: foodleImage,
+      // applink: "https://gpaul12.github.io/foodle/",
+      // repolink: "https://github.com/gpaul12/foodle",
     },
     {
       id: 2,
@@ -67,6 +69,8 @@ function PortfolioContainer() {
           <div className="card" key={item.id}>
             <h3>{item.title}</h3>
             <p> {item.description}</p>
+            <MyLilButton href={item.applink}>application</MyLilButton>
+            <MyLilButton href={item.repolink}>repository</MyLilButton>
             <img src={item.image} alt={item.title} />
             {/* <a
               href={item.applink}
@@ -84,8 +88,6 @@ function PortfolioContainer() {
             >
               Access the repository
             </a> */}
-            <MyLilButton href={item.applink}>application</MyLilButton>
-            <MyLilButton href={item.repolink}>repository</MyLilButton>
           </div>
         ))}
       </div>
