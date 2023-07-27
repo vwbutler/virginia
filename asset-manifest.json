@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/virginia/static/css/main.d20d23c8.css",
-    "main.js": "/virginia/static/js/main.68e3e40c.js",
+    "main.css": "/virginia/static/css/main.1c218b8e.css",
+    "main.js": "/virginia/static/js/main.3123f7c1.js",
     "static/media/sh.png": "/virginia/static/media/sh.22a9b637dc193bd5539d.png",
     "static/media/virginiaprofile.jpg": "/virginia/static/media/virginiaprofile.8216440e00ae3ee7344f.jpg",
     "static/media/cbap.png": "/virginia/static/media/cbap.0679de5bcfb4b37cfd7c.png",
@@ -11,15 +11,15 @@
     "static/media/jotjoy.png": "/virginia/static/media/jotjoy.d1ecc50f04f35aa114dd.png",
     "static/media/wdsched.png": "/virginia/static/media/wdsched.323fea66a9014ed7d20e.png",
     "static/media/cae.png": "/virginia/static/media/cae.e2e26130a32b41c1aacd.png",
-    "static/media/instagram.svg": "/virginia/static/media/instagram.4d969dd141d389ed7a2f.svg",
-    "static/media/github.svg": "/virginia/static/media/github.22e65707326e3e1e37af.svg",
-    "static/media/linkedin.svg": "/virginia/static/media/linkedin.2eda7bddaacee15c4449.svg",
+    "static/media/instagram-white.svg": "/virginia/static/media/instagram-white.832df85b772c4ab18346.svg",
+    "static/media/github-mark-white.svg": "/virginia/static/media/github-mark-white.97ed8e7eef60d61ca469.svg",
+    "static/media/linkedin-white.svg": "/virginia/static/media/linkedin-white.14212c7dc804b4ebe556.svg",
     "index.html": "/virginia/index.html",
-    "main.d20d23c8.css.map": "/virginia/static/css/main.d20d23c8.css.map",
-    "main.68e3e40c.js.map": "/virginia/static/js/main.68e3e40c.js.map"
+    "main.1c218b8e.css.map": "/virginia/static/css/main.1c218b8e.css.map",
+    "main.3123f7c1.js.map": "/virginia/static/js/main.3123f7c1.js.map"
   },
   "entrypoints": [
-    "static/css/main.d20d23c8.css",
-    "static/js/main.68e3e40c.js"
+    "static/css/main.1c218b8e.css",
+    "static/js/main.3123f7c1.js"
   ]
 }
