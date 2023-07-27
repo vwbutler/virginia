@@ -12,6 +12,7 @@ function MyPhoto() {
         alignItems: "center",
         marginRight: "20px",
         marginLeft: "20px",
+        marginTop: "20px",
         alignContent: "center",
         justifyContent: "center",
         borderRadius: "50%",

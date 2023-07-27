@@ -16,9 +16,9 @@ body {
 }
 
 .big-body {
-  background-color: #5c8cff;
+  background-color: black;
   font-family: "poppins", sans-serif;
-  margin: 40px;
+  margin: 30px;
   text-align: center;
   color: white;
   font-size: xx-large;
@@ -80,8 +80,8 @@ body {
 }
 
 footer {
-  background-color: #5c8cff;
-  padding: 40px;
+  background-color: black;
+  padding: 10px;
   text-align: center;
 }
 
@@ -89,7 +89,7 @@ footer {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: #5c8cff;
+  background-color: black;
 }
 
 .social-icons {
@@ -99,21 +99,21 @@ footer {
 .social-icons a {
   display: inline-block;
   margin-right: 10px;
-  color: #f8f8f8;
+  color: green;
   font-size: 24 px;
 }
 
 .instagram {
-  background-image: url("../images/instagram.svg");
+  background-image: url("../images/instagram-white.svg");
   background-size: contain;
   background-repeat: no-repeat;
-  background-color: #5c8cff;
+  background-color: black;
   width: 40px;
   height: 40px;
 }
 
 .linkedin {
-  background-image: url("../images/linkedin.svg");
+  background-image: url("../images/linkedin-white.svg");
   background-size: contain;
   background-repeat: no-repeat;
   width: 40px;
@@ -121,7 +121,7 @@ footer {
 }
 
 .github {
-  background-image: url("../images/github.svg");
+  background-image: url("../images/github-mark-white.svg");
   background-size: contain;
   background-repeat: no-repeat;
   width: 40px;
@@ -341,6 +341,7 @@ header {
   height: 200px;
   border-radius: 15%;
   background-position: center center;
+
 }
 
 .bctext {

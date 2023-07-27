@@ -3,9 +3,9 @@ import React from "react";
 export default function About() {
   return (
     <div>
-      <div className="profilephoto-container">
+      {/* <div className="profilephoto-container">
         <div className="profilephoto"></div>
-      </div>
+      </div> */}
       <div className="abouttext">
         <p>
           Virginia is an experienced project manager and business analyst
@@ -29,6 +29,9 @@ export default function About() {
           adaptable and always ready for a new challenge.
         </p>
       </div>
+      {/* <div className="profilephoto-container">
+        <div className="profilephoto"></div>
+      </div> */}
     </div>
   );
 }

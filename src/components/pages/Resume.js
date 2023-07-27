@@ -4,14 +4,6 @@ import MyButton from "../MyButton/MyButton.js";
 export default function Resume() {
   return (
     <div>
-      <a href="./assets/pdf/virginiabutler.pdf" download>
-        {" "}
-        <MyButton class="MyButton" type="submit">
-          Download resume
-        </MyButton>
-      </a>
-      {/* <img src={PmpImage} alt="pmp" /> */}
-
       <div className="cred-icons">
         <a
           href="https://www.credly.com/badges/f4997697-9038-43ac-8c76-13787f808433/public_url"
@@ -62,6 +54,14 @@ export default function Resume() {
           programming, and more.
           {/* </p> */}
         </div>
+      </div>
+      <div>
+        <a href="./assets/pdf/virginiabutler.pdf" download>
+          {" "}
+          <MyButton class="MyButton" type="submit">
+            Download resume
+          </MyButton>
+        </a>
       </div>
     </div>
   );
