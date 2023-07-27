@@ -1,13 +1,12 @@
 {
   "files": {
-    "main.css": "/virginia/static/css/main.b25ac032.css",
-    "main.js": "/virginia/static/js/main.1a3997f6.js",
+    "main.css": "/virginia/static/css/main.d20d23c8.css",
+    "main.js": "/virginia/static/js/main.68e3e40c.js",
     "static/media/sh.png": "/virginia/static/media/sh.22a9b637dc193bd5539d.png",
     "static/media/virginiaprofile.jpg": "/virginia/static/media/virginiaprofile.8216440e00ae3ee7344f.jpg",
     "static/media/cbap.png": "/virginia/static/media/cbap.0679de5bcfb4b37cfd7c.png",
     "static/media/weatherdash.png": "/virginia/static/media/weatherdash.d679711169327cbf2f77.png",
     "static/media/foodle.jpg": "/virginia/static/media/foodle.4e84e2063a062cd71dc6.jpg",
-    "static/media/cuterocket.png": "/virginia/static/media/cuterocket.10cef1cf3a0f80ce68b2.png",
     "static/media/journeyverse.jpg": "/virginia/static/media/journeyverse.99ca6095cf2991b5560e.jpg",
     "static/media/jotjoy.png": "/virginia/static/media/jotjoy.d1ecc50f04f35aa114dd.png",
     "static/media/wdsched.png": "/virginia/static/media/wdsched.323fea66a9014ed7d20e.png",
@@ -16,11 +15,11 @@
     "static/media/github.svg": "/virginia/static/media/github.22e65707326e3e1e37af.svg",
     "static/media/linkedin.svg": "/virginia/static/media/linkedin.2eda7bddaacee15c4449.svg",
     "index.html": "/virginia/index.html",
-    "main.b25ac032.css.map": "/virginia/static/css/main.b25ac032.css.map",
-    "main.1a3997f6.js.map": "/virginia/static/js/main.1a3997f6.js.map"
+    "main.d20d23c8.css.map": "/virginia/static/css/main.d20d23c8.css.map",
+    "main.68e3e40c.js.map": "/virginia/static/js/main.68e3e40c.js.map"
   },
   "entrypoints": [
-    "static/css/main.b25ac032.css",
-    "static/js/main.1a3997f6.js"
+    "static/css/main.d20d23c8.css",
+    "static/js/main.68e3e40c.js"
   ]
 }
